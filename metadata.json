@@ -1,0 +1,6 @@
+{
+  "name": "Günlük Bütçem",
+  "description": "Günlük harcamalarınızı takip edebileceğiniz, aylık bütçenizi yönetebileceğiniz ve yapay zeka destekli tasarruf önerileri alabileceğiniz bütçe ve harcama takip uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

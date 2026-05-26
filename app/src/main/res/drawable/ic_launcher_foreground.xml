@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background Circle Shadow/Bezel to give instant branding -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,20 A34,34 0 1,0 54,88 A34,34 0 1,0 54,20 Z" />
+
+    <!-- Stylish Inner Card (Checking/Account background) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,42 H74 V68 A6,6 0 0,1 68,74 H40 A6,6 0 0,1 34,68 Z" />
+
+    <!-- Wallet Flap with Neon Cyan accent -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M60,48 H76 V62 H60 A7,7 0 0,1 60,48 Z" />
+
+    <!-- Small Golden Circle/Button on flap representing secure lock -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M65,55 A3,3 0 1,1 65,54.9 Z" />
+
+    <!-- Visual Ascending Trend Line/Growth arrow over the wallet for progression -->
+    <path
+        android:fillColor="#091E0B"
+        android:pathData="M38,62 L48,52 L54,58 L70,42 L66,38 H74 V46 L70,42 L54,58 L48,52 L34,58 Z" />
+        
+</vector>
